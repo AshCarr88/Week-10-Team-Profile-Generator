@@ -1,5 +1,5 @@
 {
-    "name": "CoolEmployees",
+    "name": "coolemployees",
     "version": "1.0.0",
     "description": "OOP",
     "main": "index.js",
@@ -16,7 +16,7 @@
     },
     "author": "",
     "license": "ISC",
-    "homepage": "",
+    "homepage": "https://github.com/AshCarr88/Week-10-Team-Profile-Generator",
     "dependencies": {
       "inquirer": "^6.3.1"
     },
